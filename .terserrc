@@ -1,0 +1,6 @@
+{
+  "toplevel": true,
+  "compress": {
+    "passes": 2
+  }
+}
